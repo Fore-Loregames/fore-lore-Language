@@ -2,7 +2,7 @@
 
 ## **📌 Introduction**
 Fore-Lore (`.fl`) is a high-level language that compiles directly to C++ code. It simplifies memory management and provides a structured way to write object-oriented programs while maintaining the flexibility of C++.
-
+I made this to simplify my workflows into a more C# style coding with C++. Might be buggy. Working on clion and vscode plugins.
 This guide covers how to:
 - Write `.fl` scripts
 - Use classes, functions, and variables
